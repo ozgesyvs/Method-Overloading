@@ -1,0 +1,14 @@
+/Users/ozge/Desktop/Pratikler/methodoverloading/bin/Debug/net8.0/methodoverloading
+/Users/ozge/Desktop/Pratikler/methodoverloading/bin/Debug/net8.0/methodoverloading.deps.json
+/Users/ozge/Desktop/Pratikler/methodoverloading/bin/Debug/net8.0/methodoverloading.runtimeconfig.json
+/Users/ozge/Desktop/Pratikler/methodoverloading/bin/Debug/net8.0/methodoverloading.dll
+/Users/ozge/Desktop/Pratikler/methodoverloading/bin/Debug/net8.0/methodoverloading.pdb
+/Users/ozge/Desktop/Pratikler/methodoverloading/obj/Debug/net8.0/methodoverloading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ozge/Desktop/Pratikler/methodoverloading/obj/Debug/net8.0/methodoverloading.AssemblyInfoInputs.cache
+/Users/ozge/Desktop/Pratikler/methodoverloading/obj/Debug/net8.0/methodoverloading.AssemblyInfo.cs
+/Users/ozge/Desktop/Pratikler/methodoverloading/obj/Debug/net8.0/methodoverloading.csproj.CoreCompileInputs.cache
+/Users/ozge/Desktop/Pratikler/methodoverloading/obj/Debug/net8.0/methodoverloading.dll
+/Users/ozge/Desktop/Pratikler/methodoverloading/obj/Debug/net8.0/refint/methodoverloading.dll
+/Users/ozge/Desktop/Pratikler/methodoverloading/obj/Debug/net8.0/methodoverloading.pdb
+/Users/ozge/Desktop/Pratikler/methodoverloading/obj/Debug/net8.0/methodoverloading.genruntimeconfig.cache
+/Users/ozge/Desktop/Pratikler/methodoverloading/obj/Debug/net8.0/ref/methodoverloading.dll
